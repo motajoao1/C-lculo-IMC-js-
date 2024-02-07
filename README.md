@@ -1,2 +1,2 @@
 # C-lculo-IMC-js-
-Calcular seu IMC em javascript.
+Projeto simples em js para calcular seu IMC com base no seu peso e altura.
